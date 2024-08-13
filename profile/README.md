@@ -7,7 +7,7 @@
 Сам проект написан на 2 микросервисах, один на Python, другой на GO.
 
 <p align="center">
-  <img width="400" height="350" src="https://github.com/PrettyPet-Organization/.github/prifile/тряска-не-трясись.mp4">
+  <img width="400" height="350" src="https://github.com/PrettyPet-Organization/.github/profile/тряска-не-трясись.mp4">
 </p>
 <!--
 
