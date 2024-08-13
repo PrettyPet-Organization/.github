@@ -7,10 +7,6 @@
 Сам проект написан на 2 микросервисах, один на Python, другой на GO.
 
 <p align="center">
-  <img width="300" height="350" src="https://github.com/user-attachments/assets/d7f9c075-ac2b-4342-af23-97c76c19d252">
-</p>
-
-<p align="center">
   <img width="300" height="350" src="./причина-тряски.gif">
 </p>
 <!--
